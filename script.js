@@ -26,7 +26,7 @@ p.innerHTML = "Hello World";
 
 // Task 2
 let image = document.createElement("img");
-image.src = "/images/images.jpeg";
+image.src = "./images/images.jpeg";
 image.style.width = "30%";
 image.style.height = "auto";
 
